@@ -20,7 +20,8 @@ public class Main {
     }
 
     public static int doubleTheNumber(int number) {
-        return number * 2;
+        int result = number * 2;
+        return result;
     }
 
     public static String greet(String name) {
@@ -28,7 +29,8 @@ public class Main {
     }
 
     public static int sumTheNumbers (int number1, int number2, int number3) {
-        return number1 + number2 + number3;
+        int result = number1 + number2 + number3;
+        return result;
     }
 
     public static void greet2Persons (String name1, String name2) {
